@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Tech Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress\wp-content\plugins\candid-advanced-toolset\engage-mag-dummy-data/demo-files/tech/tech.xml
+Widget file = C:\xampp\htdocs\wordpress\wp-content\plugins\candid-advanced-toolset\engage-mag-dummy-data/demo-files/tech/tech.wie
+Customizer file = C:\xampp\htdocs\wordpress\wp-content\plugins\candid-advanced-toolset\engage-mag-dummy-data/demo-files/tech/tech.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Engage Mag Recent Post - No Title - Imported
+Cari - No Title - Widget already exists
+Pos-pos Terbaru - No Title - Widget already exists
+Kategori - No Title - Widget already exists
+Engage Mag Thumbnail Post - No Title - Imported
+Galeri - Gallery - Imported
+
+Home Page Widget Area : 
+
+Engage Mag Featured Post - Popular News - Imported
+Engage Mag Grid Post - No Title - Imported
+Engage Mag Post Slider - Posts Slider - Imported
+Engage Mag Thumbnail Post - Thumbnail Posts - Imported
+Engage Mag Two Category Column - No Title - Imported
+Engage Mag Featured Post - Featured Posts - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
